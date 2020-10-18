@@ -1,5 +1,5 @@
 ## Love-Alert-assignment
-#### This ipython notebook scrapes all the emails in an email account, and filters out emails having a specific provided subject. This notebook works only on gmail accounts since [imap.gmail.com](imap.gmail.com) is used. The link that contains list of IMAP servers for most commonly used email providers. Those servers can be used in case of any other gmail account. But let's do it for gmail now.
+#### This ipython notebook scrapes all the emails in an email account, and filters out emails having a specific provided subject. This notebook works only on gmail accounts since [imap.gmail.com](imap.gmail.com) is used. This [link](https://www.systoolsgroup.com/imap/) contains list of IMAP servers for most commonly used email providers. Those servers can be used in case of any other gmail account. But let's do it for gmail now.
 
 #### To execute the code-
  1.The variable username takes the emailId of a gamil account and password takes the password for that account as input respectively. Enter these details before running the cell.
